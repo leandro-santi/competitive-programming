@@ -5,3 +5,6 @@ resolutions of some cp problems
 - Atcoder
 - LeetCode
 - CSES
+- Beecrowd
+- Neps
+- Kattis
