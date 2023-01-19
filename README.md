@@ -8,4 +8,3 @@ resolutions of some cp problems
 - Beecrowd
 - Neps
 - Kattis
-- Others
