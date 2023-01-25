@@ -8,3 +8,5 @@ resolutions of some cp problems
 - Beecrowd
 - Neps
 - Kattis
+- Hackerrank
+- Contests
