@@ -23,3 +23,15 @@
 *.vscode
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+
+# Support for Project snippet scope
+
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+
+*
+!/**/
+!*.*
+
+.vscode/c_cpp_properties.json
+*.exe
+.vscode/settings.json
