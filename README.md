@@ -1,10 +1,10 @@
 # competitive-programming
-resolutions of some cp problems
+solutions of some cp problems
 
 - Codeforces
-- LeetCode
 - Beecrowd
 - Neps
 - Kattis
+- LeetCode
 - HackerRank
 - Contests Stuff
