@@ -25,7 +25,7 @@ int main(){
     }
 
     printf("%.2f ", min / judges);
-    printf("%.2f\n", max / judges); 
+    printf("%.2f\n", max / judges);
     
     return 0;
 }
