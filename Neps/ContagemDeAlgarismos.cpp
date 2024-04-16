@@ -24,7 +24,7 @@ int main(){
         aux += to_string(num);
     }
     
-    for(int i = 0; i < aux.size(); i++){
+    for(int i = 0; i < static_cast<int>(aux.size()); i++){
         standings[aux[i]]++;
     }
     
