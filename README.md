@@ -1,15 +1,19 @@
 <div align="center">
-  <img src="https://www.educative.io/v2api/editorpage/4994081693368320/image/5898426517553152" width="330px" />
+  <img src="competitive-programming.png" width="230px" />
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/leandro-santi/graph-social-network?color=%231E90FF&style=flat-square" alt="languages" />
-  <img src="https://img.shields.io/github/license/leandro-santi/graph-social-network?color=%231E90FF&style=flat-square" alt="license" />
-  <img src="https://img.shields.io/github/repo-size/leandro-santi/graph-social-network?color=%231E90FF&style=flat-square" alt="repo size" />
+  <img src="https://img.shields.io/github/languages/count/leandro-santi/graph-social-network?color=%#145A32&style=flat-square" alt="languages" />
+  <img src="https://img.shields.io/github/license/leandro-santi/graph-social-network?color=%#145A32&style=flat-square" alt="license" />
+  <img src="https://img.shields.io/github/repo-size/leandro-santi/competitive-programming?color=%#145A32&style=flat-square" alt="repo size" />
 </div>
 
 # competitive-programming
 
-this repository aims to have solutions of some cp problems
+this repository aims to have solutions of some cp problems.
+
+# About
+
+the content is summarized in some online judges and regional contests:
 
 * Codeforces
 * Beecrowd
