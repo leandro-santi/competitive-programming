@@ -9,19 +9,19 @@
 
 # competitive-programming
 
-this repository aims to have solutions of some cp problems.
+This repository aims to have solutions to competitive programming problems.
 
 ## About
 
-the content is summarized in some online judges and regional contests:
+The content is summarized in some online judges and regional contests:
 
-* Codeforces
-* Beecrowd
-* Neps
-* Kattis
-* LeetCode
-* HackerRank
-* Contests Stuff
+* [Codeforces](https://codeforces.com/)
+* [Beecrowd](https://beecrowd.com/)
+* [Neps](https://neps.academy/br)
+* [Kattis](https://open.kattis.com/)
+* [LeetCode](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [Contests Stuff](https://maratona.sbc.org.br/)
 
 ## License
 
